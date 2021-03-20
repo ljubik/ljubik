@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Liubomyr ( revers )
+<h1 align="center">Hello:wave: and welcome to my GitHub profile! </h1>
+### My name is Liubomyr ([ revers ])
 - 🔭 I’m currently working on homeworks :)
 - 🌱 I’m currently learning react in GoIt
 
@@ -23,6 +24,13 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/ljubik/ljubik/main/image/js.png" />]()
 [<img align="left" alt="JavaScript react" width="26px" src="https://raw.githubusercontent.com/ljubik/ljubik/main/image/react.png" />]()
 [<img align="left" alt="JavaScript redux" width="26px" src="https://raw.githubusercontent.com/ljubik/ljubik/main/image/redux.png" />]()
+
+
+### i'm student in course for JavaScript GoIT academy
+
+[![ljubik github stats](https://github-readme-stats.vercel.app/api?username=ljubik)](https://github.com/ljubik)
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ljubik&label=PROFILE+VIEWS" alt="Ljubik" /></p>
 
 
 <!--
