@@ -26,7 +26,7 @@
 [<img align="left" alt="JavaScript redux" width="26px" src="https://raw.githubusercontent.com/ljubik/ljubik/main/image/redux.png" />]()
 
 
-### i'm student in course for JavaScript&React&NodeJs in GoIT academy
+### i'm finish course for JavaScript&React&NodeJs in GoIT 
 
 [![ljubik github stats](https://github-readme-stats.vercel.app/api?username=ljubik)](https://github.com/ljubik)
 
