@@ -1,7 +1,7 @@
 <h1 align="center">Hello:wave: and welcome to my GitHub profile! </h1>
 ### My name is Liubomyr ([ revers ])
-- 🔭 I’m currently working on homeworks :)
-- 🌱 I’m currently find front end developer vacancies
+- 🔭 I’m currently working on home :)
+- 🌱 I’m currently implemented front end developer
 
 
 ### MY STACK & TOOLS:
